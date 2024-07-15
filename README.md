@@ -4,24 +4,31 @@ Welcome to my portfolio website! My name is Abhishek Tiwari, and I'm a passionat
 
 # Technologies Used
 **React** : For building the user interface and managing the state.
+
 **Tailwind** CSS: For styling the components and ensuring a responsive design.
+
 **JavaScript**: For adding interactivity and functionality.
 
 # Projects
 Here are some of the projects that you can explore:
 
-# Resume Builder
+**(1) Resume Builder**
+
 **Description**: A web application that allows users to create and customize their resumes with ease.
+
 **Link**: Resume Builder
 
-# Get YouTube Subscriber Count
+**(2) Get YouTube Subscriber Count**
+
 **Description**: A tool to retrieve and display the current subscriber count of a specified YouTube channel.
+
 **Link**: Get YouTube Subscriber Count
 
 # Contact
 If you have any questions or want to get in touch, you can reach me at:
 
 **Email**: abhishektiwary201@gmail.com
+
 **LinkedIn**: LinkedIn Profile
 
 # Thank you for visiting my portfolio!
