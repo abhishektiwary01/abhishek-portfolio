@@ -16,7 +16,7 @@ Here are some of the projects that you can explore:
 
 **Description**: A web application that allows users to create and customize their resumes with ease.
 
-**Link**: Resume Builder
+**Link**: [https://resume-maker-theta-sepia.vercel.app/](url)
 
 **(2) Get YouTube Subscriber Count**
 
