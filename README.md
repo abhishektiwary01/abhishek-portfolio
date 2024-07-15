@@ -30,6 +30,6 @@ If you have any questions or want to get in touch, you can reach me at:
 
 **Email**: abhishektiwary201@gmail.com
 
-**LinkedIn**: LinkedIn Profile
+**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abhishktiwary/)
 
 # Thank you for visiting my portfolio!
